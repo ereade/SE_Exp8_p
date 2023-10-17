@@ -5,5 +5,6 @@
 
 int main() {
     printf("Hello, world!\n");
+    printf("This is amine\n");
     return 0;
 }
