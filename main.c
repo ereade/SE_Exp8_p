@@ -7,5 +7,6 @@ int main() {
     printf("Hello, world!\n");
     printf("This is amine\n");
     printf("This is exp8 initial add\n");
+    printf("Hello, world!\n");
     return 0;
 }
